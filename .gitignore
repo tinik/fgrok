@@ -21,3 +21,4 @@ storybook-dist
 test-report.xml
 test-results.json
 /.env
+/source/venv/
