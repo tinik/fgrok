@@ -1,13 +1,15 @@
-## Server
+## Util
+simple script utility for redirecting local requests to a third party host
 
-### Install for Flask
+
+#### Install
 ```
     cd ./fgrok
     python -m venv source
     python -m pip install requirements.txt
 ```
 
-### RUN Rest
+#### RUN
 ```
     cd ./fgrok
     source Flask/source/venv/bin/activate
